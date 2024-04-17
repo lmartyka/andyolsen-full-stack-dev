@@ -1,3 +1,5 @@
+import './PanelB.css';
+
 export default function PanelB(props: any) {
   const msg = props.msg
   return (

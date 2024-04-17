@@ -1,8 +1,8 @@
 import React from 'react';
-import PanelA from './PanelA'
-import PanelB from './PanelB'
-import PanelC from './PanelC'
-import PanelD from './PanelD'
+import PanelA from './panels/PanelA/PanelA'
+import PanelB from './panels/PanelB/PanelB'
+import PanelC from './panels/PanelC/PanelC'
+import PanelD from './panels/PanelD/PanelD'
 
 const person = {
   fname: 'Kari', 

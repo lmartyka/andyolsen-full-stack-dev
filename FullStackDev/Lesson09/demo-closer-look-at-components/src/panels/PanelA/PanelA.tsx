@@ -1,3 +1,5 @@
+import './PanelA.css';
+
 export default function PanelA() {
   return (
     <div className="panelA">

@@ -1,3 +1,5 @@
+import './PanelC.css';
+
 export default function PanelC(props: any) {
   const fname = props.fname
   const lname = props.lname

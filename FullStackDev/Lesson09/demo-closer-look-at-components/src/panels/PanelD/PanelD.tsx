@@ -1,3 +1,5 @@
+import './PanelD.css';
+
 export default function PanelD({name, salary, skills}: any) {
   return (
     <div className="panelD">
